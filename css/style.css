@@ -160,11 +160,9 @@ section {
   list-style: none;
   display: flex;
   flex-wrap: wrap;
-  margin-top: 50px;
-  margin-bottom: 94px;
-  width: 100%;
+  margin: 0;
+  padding: 0 10px;
   gap: 30px;
-  margin-bottom: 0;
 }
 .border {
   border: 1px solid var(--productborder);
